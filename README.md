@@ -18,8 +18,18 @@ Reference to pass the Azure fundamentals test (AZ-900 )
 
 * Summarize
 
- Example: https://github.com/alfredodeza/azure-fundamentals
+Sample repo structure:
 
+```
+.
+├── 1-cloud-concepts.md
+├── 2-core-services.md
+├── 3-core-solutions.md
+├── 4-security.md
+├── 5-governance-compliance.md
+├── 6-cost-management.md
+└── README.md
+```
 
 1. Create a repository and add 6 markdown files, one for each section
 1. Start summarizing, adding the Learning Path and Learning Module for each section
@@ -42,5 +52,6 @@ Features:
 
 Find key differences for similar services. For example, IoT Hub vs. IoT Central:
 
-IoT Hub: More control, less managed (no dashboard). Telemetry analysis.
-IoT Central: Less control, more managed (dashboard included). Telemetry analysis.
+**IoT Hub:** More control, less managed (no dashboard). Telemetry analysis.
+
+**IoT Central:** Less control, more managed (dashboard included). Telemetry analysis.
