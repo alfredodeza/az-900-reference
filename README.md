@@ -1,6 +1,14 @@
 # AZ-900 Reference Guide
 
+
+
 Reference to pass the Azure fundamentals test (AZ-900 )
+
+## Watch the Video tutorial
+
+[![Azure Fundamentals reference video](https://img.youtube.com/vi/6F3El6zuUm0/0.jpg)](https://youtu.be/6F3El6zuUm0 "AZ-900 Reference guide")
+
+## Summarize
 
 **Centralized details:** Certification https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 
